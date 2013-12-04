@@ -36,3 +36,6 @@ Mobile Pack for AngularJS supports the following two deployment options for your
 ## Learn More
 
 For much more information building enterprise mobile applications on Force.com with Mobile Packs, go to the [Mobile Packs home page](https://events.developerforce.com/mobile/services/mobile-packs).
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/developerforce/mobilepack-angularjs/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
