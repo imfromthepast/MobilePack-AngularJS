@@ -2,13 +2,12 @@
 <Package xmlns="http://soap.sforce.com/2006/04/metadata">
     <fullName>AngularMobilePack</fullName>
     <types>
-        <members>MobileSample_AngularDetail</members>
-        <members>MobileSample_AngularEdit</members>
-        <members>MobileSample_AngularHome</members>
-        <members>MobileSample_AngularIndex</members>
-        <members>MobileSample_AngularList</members>
-        <members>MobileSample_AngularLogin</members>
-        <members>MobileSample_AngularView</members>
+        <members>MobileSample_ngContactEdit</members>
+        <members>MobileSample_ngHome</members>
+        <members>MobileSample_ngIndex</members>
+        <members>MobileSample_ngContactList</members>
+        <members>MobileSample_ngLogin</members>
+        <members>MobileSample_ngContactView</members>
         <name>ApexPage</name>
     </types>
     <types>
