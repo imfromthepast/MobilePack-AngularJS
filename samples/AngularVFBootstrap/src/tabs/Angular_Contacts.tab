@@ -3,5 +3,5 @@
     <label>Angular Contacts</label>
     <mobileReady>false</mobileReady>
     <motif>Custom28: Cell phone</motif>
-    <page>MobileSample_ngIndex.page</page>
+    <page>MobileSample_ngIndex</page>
 </CustomTab>
