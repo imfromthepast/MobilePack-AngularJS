@@ -3,5 +3,5 @@
     <defaultLandingTab>standard-home</defaultLandingTab>
     <label>Angular Mobile Pack</label>
     <logo>Package/AngularIcon.png</logo>
-    <tab>Angular_Demo</tab>
+    <tab>Angular_Contacts</tab>
 </CustomApplication>
